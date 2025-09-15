@@ -1,0 +1,89 @@
+/* Base styles */
+body {
+    background-color: #ebebea; /* light gray background */
+    font-family: "Arial", sans-serif; /* readable typeface */
+    color: #415146; /* text color */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Headings */
+h1 {
+    color: #b22910;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    color: #c7995d;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    color: #b22910;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Paragraphs */
+p {
+    color: #415146;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    padding: 5px 0;
+}
+
+/* Lists */
+ul {
+    list-style-type: square;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+    color: #c7995d;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b22910;
+    text-decoration: underline;
+}
+
+/* Box model */
+.box {
+    width: 300px;
+    height: 150px;
+    background-color: #c7995d;
+    border: 3px solid #b22910;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    color: #415146;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+/* Header and Footer styling */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+footer {
+    text-align: center;
+    margin-top: 3rem;
+    color: #ebebea;
+    background-color: #415146;
+    padding: 1rem;
+    border-radius: 5px;
+}
