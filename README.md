@@ -1,7 +1,10 @@
-## Hi there 👋
+# 👋 My Personal Introduction Website
 
-# Personal Introduction Website
+Hello! This is my **personal website** it shares a bit about me, my interests, and my skills in a clean, styled page.  
 
-This website is a professional introduction showcasing my background, skills, and interests. It demonstrates my ability to build and style a personal web project using HTML and CSS.
+## 🛠 Built With
+- HTML & CSS
+- GitHub for version control  
 
-[View the live website](https://CodingWithAndres.github.io/)
+## 🌐 Live Site
+Check it out here: [My Website](https://<CodingWithAndres>.github.io)
