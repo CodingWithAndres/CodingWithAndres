@@ -87,3 +87,16 @@ footer {
     padding: 1rem;
     border-radius: 5px;
 }
+
+.map-section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.map-container {
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
