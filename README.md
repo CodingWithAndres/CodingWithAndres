@@ -7,4 +7,4 @@ Hello! This is my **personal website** it shares a bit about me, my interests, a
 - GitHub for version control  
 
 ## 🌐 Live Site
-Check it out here: [My Website](https://codingwithandres.github.io/CodingWithAndres/)
+Check it out here: [My Website](https://codingwithandres.github.io/)
